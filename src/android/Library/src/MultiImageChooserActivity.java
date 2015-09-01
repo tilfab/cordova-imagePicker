@@ -83,7 +83,7 @@ import org.json.JSONObject;
 import org.json.JSONArray;
 import org.json.JSONException;
 
-import com.photago.app.R;
+import com.photago.android.R;
 
 import android.content.pm.ActivityInfo;
 
